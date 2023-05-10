@@ -1,0 +1,15 @@
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.csproj.AssemblyReference.cache
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.AssemblyInfoInputs.cache
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.AssemblyInfo.cs
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.csproj.CoreCompileInputs.cache
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\bin\Debug\net6.0\LatihanMemberClass.exe
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\bin\Debug\net6.0\LatihanMemberClass.deps.json
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\bin\Debug\net6.0\LatihanMemberClass.runtimeconfig.json
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\bin\Debug\net6.0\LatihanMemberClass.dll
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\bin\Debug\net6.0\LatihanMemberClass.pdb
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.dll
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\refint\LatihanMemberClass.dll
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.pdb
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\LatihanMemberClass.genruntimeconfig.cache
+F:\22.11.5170\c#\LatihanMemberClass\LatihanMemberClass\obj\Debug\net6.0\ref\LatihanMemberClass.dll
